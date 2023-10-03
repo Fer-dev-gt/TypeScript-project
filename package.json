@@ -10,9 +10,11 @@
   "author": "Fernando Orozco",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.199",
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
   }
 }
